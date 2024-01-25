@@ -2,7 +2,7 @@
 
 🌍 A Data Scientist and Statistician with a passion for problem solving.
 
-💼 Currently working on deep-learning (PyTorch) and LLM.
+💼 Currently working on deep-learning (PyTorch) and NLP/LLM.
 
 🚀 Always exploring new ways to solve real-world problems through data-driven insights and cutting-edge technology.
 
