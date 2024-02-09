@@ -1,4 +1,4 @@
-👋 Hello, I'm Sercan Gul (Ph.D, MS, MS).
+👋 Hello, I'm Sercan Gul (PhD, MS, MS).
 
 🌍 A Data Scientist and Statistician with a passion for problem solving.
 
